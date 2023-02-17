@@ -1,4 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 <a name="readme-top"></a>
 
@@ -27,10 +26,14 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="images/elim.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Portfolio Microverse project</b></h3>
+stenlisuryadinata-patch-1
+  
+
+  # PORTFOLIO MOBILE WEB APP 
+  main
 
 </div>
 
@@ -70,6 +73,7 @@ After you're finished please remove all the comments and instructions!
 - ![screenshot](/images/mobile_preview_v2.png)
 - ![screenshot](/images/mobile_preview_v3.png)
 - ![screenshot](/images/mobile_preview_v4.png)
+- ![screenshot](/images/mobile-friendly-test.png)
 
 ## 🛠 Built With <a name="built-with"></a>
 
