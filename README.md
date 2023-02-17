@@ -118,7 +118,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> This project initialized by parsing a Figma design to create a UI, and then we use Flexbox to place elements in the app. this project is a good palyground to enhance the understanding of how mobile app are created. 
+> This project initialized by parsing a Figma design to create a UI, and then we use Flexbox to place elements in the app. this project is a good palyground to enhance the understanding of how mobile app are created.
 
 ### Prerequisites
 
@@ -182,7 +182,7 @@ Example commands:
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> If you like this project , pleas kindly starred this repo 
+> If you like this project , pleas kindly ⭐️ this repo 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
