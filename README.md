@@ -27,7 +27,6 @@ After you're finished please remove all the comments and instructions!
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
 
   <img src="images/elim.png" alt="logo" width="140"  height="auto" />
-main
   <br/>
 
   # PORTFOLIO MOBILE WEB APP 
