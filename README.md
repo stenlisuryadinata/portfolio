@@ -29,7 +29,7 @@ After you're finished please remove all the comments and instructions!
   <img src="images/elim.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Portfolio: setup and mobile first</b></h3>
+  <h1><b>Portfolio</b></h1>
 
 </div>
 
@@ -69,7 +69,7 @@ After you're finished please remove all the comments and instructions!
 - ![screenshot](/images/mobile_preview_v2.png)
 - ![screenshot](/images/mobile_preview_v3.png)
 - ![screenshot](/images/mobile_preview_v4.png)
-- ![screenshot](/images/mobile-frendly-test.png)
+- ![screenshot](/images/mobile-friendly-test.png)
 
 ## 🛠 Built With <a name="built-with"></a>
 
