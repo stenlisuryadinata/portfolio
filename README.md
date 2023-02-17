@@ -29,7 +29,11 @@ After you're finished please remove all the comments and instructions!
   <img src="images/elim.png" alt="logo" width="140"  height="auto" />
   <br/>
 
+stenlisuryadinata-patch-1
+  
+
   # PORTFOLIO MOBILE WEB APP 
+  main
 
 </div>
 
