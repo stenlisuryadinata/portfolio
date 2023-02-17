@@ -29,7 +29,7 @@ After you're finished please remove all the comments and instructions!
   <img src="images/elim.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h1><b>Portfolio</b></h1>
+  # PORTFOLIO MOBILE WEB APP 
 
 </div>
 
